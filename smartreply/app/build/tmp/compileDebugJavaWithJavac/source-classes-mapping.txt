@@ -1,0 +1,2 @@
+com/dreadedlama/reply/smartreply/BuildConfig.java
+ com.dreadedlama.reply.smartreply.BuildConfig

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Reply</string>
+    <string name="format">Format</string>
+    <string name="message">message</string>
+    <string name="time_created_epoch">Time Created Since Epoch</string>
+    <string name="formatted_time">Formatted Time</string>
+    <string name="formatted_time_description">The time this action was created formatted with your chosen format</string>
+    <string name="times">Times</string>
+    <string name="variable">Variable</string>
+    <string name="split">Split</string>
+    <string name="msg_description">Smart replies for your message</string>
+    <string name="msg">Replies</string>
+
+</resources>

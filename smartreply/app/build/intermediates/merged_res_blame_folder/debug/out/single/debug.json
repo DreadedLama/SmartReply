@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_rectangle_gray.xml.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\drawable\\rounded_rectangle_gray.xml"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_config_get_smart_reply.xml.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\layout\\activity_config_get_smart_reply.xml"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_reply_round.jpeg.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-hdpi\\reply_round.jpeg"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_rectangle_blue.xml.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\drawable\\rounded_rectangle_blue.xml"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_plugin.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\drawable-v24\\plugin.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_reply_old.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-hdpi\\reply_old.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tag_faces_black_24dp.xml.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\drawable\\ic_tag_faces_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_rectangle_light_gray.xml.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\drawable\\rounded_rectangle_light_gray.xml"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_reply_round_old.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-hdpi\\reply_round_old.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_smartreply_activity.xml.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\layout\\main_smartreply_activity.xml"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera_front_black_24dp.xml.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\drawable\\ic_camera_front_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_reply.jpeg.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-hdpi\\reply.jpeg"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SmartReply\\smartreply\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\SmartReply\\smartreply\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
