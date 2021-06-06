@@ -1,5 +1,3 @@
-# ML Kit Smart Reply Quickstart
-
 A tasker plugin that uses ML Kit for Smart Replies.
 
 ## Introduction
