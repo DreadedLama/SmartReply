@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reply</string>
+    <string name="format">Format</string>
+    <string name="message">message</string>
+    <string name="variable">Variable</string>
+    <string name="split">Split</string>
+    <string name="msg_description">Smart replies for your message</string>
+    <string name="msg">Replies</string>
+
+</resources>

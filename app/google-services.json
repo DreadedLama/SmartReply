@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997244138580",
+    "project_id": "reply-eebd5",
+    "storage_bucket": "reply-eebd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997244138580:android:c11779e3711cf7848ae9c1",
+        "android_client_info": {
+          "package_name": "com.dreadedlama.reply.smartreply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997244138580-evo6ppmur2hsitt7b6j2sdgqrjp9qp5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNOkUhQeX5yjQejNrOgBmwuqYJBf60Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997244138580-evo6ppmur2hsitt7b6j2sdgqrjp9qp5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
