@@ -1,39 +1,18 @@
 # ML Kit Smart Reply Quickstart
 
-* [Read more about ML Kit Smart Reply](https://developers.google.com/ml-kit/language/smart-reply)
+A tasker plugin that uses ML Kit for Smart Replies.
 
 ## Introduction
 
-The Reply app demonstrates how to use the Smart
-Reply feature of ML Kit to automatically generate replies to conversation
-threads in your application.
+The Reply app uses the ML Kit smart replies feature to take a message as input and output suggest replies if available.
+It is a tasker plugin and does not have any standalone use. The output will be save in %reply varaible.
 
 ## Getting Started
 
-* Run the sample code on your Android device or emulator
-* Type messages to generate smart replies
-* Try extending the code to add new features and functionality
-
-## Support
-
-* [Documentation](https://developers.google.com/ml-kit/language/smart-reply/android)
-* [Stack Overflow](https://stackoverflow.com/questions/tagged/mlkit)
-
-## License
-
-Copyright 2020 Google, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-  http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
+* In tasker task choose the plugin option and select "Reply"
+* Input the message to get suggested smart replies
+* The output is saved in %reply varaible as string with each suggesting in new line. 
+  Sample output - "Hi
+                   Bye
+                   Hey There"
+* If no smart reply is found, the %reply varaible is set to "No smart replies found"
