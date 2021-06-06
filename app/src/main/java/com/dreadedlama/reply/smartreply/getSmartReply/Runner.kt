@@ -12,8 +12,6 @@ import java.util.*
 
 class GetIPRunner : TaskerPluginRunnerAction<GetSmartReplyInput, GetSmartReplies>() {
 
-    //    private val smartReply = FirebaseNaturalLanguage.getInstance().smartReply
-    //    private var conversation = ArrayList<FirebaseTextMessage>()
     private val smartReply = SmartReply.getClient()
     override fun run(context: Context, input: TaskerInput<GetSmartReplyInput>): TaskerPluginResult<GetSmartReplies> {
 
@@ -26,15 +24,15 @@ class GetIPRunner : TaskerPluginRunnerAction<GetSmartReplyInput, GetSmartReplies
         var smartReplies: String? = null
         smartReply.suggestReplies(chatHistory)
                 .addOnSuccessListener { result ->
-                    if (result.getStatus() == SmartReplySuggestionResult.STATUS_NOT_SUPPORTED_LANGUAGE) {
-                        smartReplies = "No smart replies found"
-                    } else if (result.getStatus() == SmartReplySuggestionResult.STATUS_SUCCESS) {
+                    if (result.getStatus() == SmartReplySuggestionResult.STATUS_SUCCESS) {
                         for (suggestion in result.suggestions) {
                             smartReplies = if (smartReplies.isNullOrBlank())
                                 suggestion.text
                             else
                                 smartReplies + "\n" + suggestion.text
                         }
+                    } else {
+                        smartReplies = "No smart replies found"
                     }
                 }
                 .addOnFailureListener {
@@ -43,10 +41,4 @@ class GetIPRunner : TaskerPluginRunnerAction<GetSmartReplyInput, GetSmartReplies
         Thread.sleep(750)
         return TaskerPluginResultSucess(GetSmartReplies(smartReplies), null)
     }
-
-//    private fun addMessage(text : String){
-//        conversation.add(
-//                FirebaseTextMessage.createForRemoteUser(
-//                        text, System.currentTimeMillis(), nameText.text.toString()))
-//    }
 }

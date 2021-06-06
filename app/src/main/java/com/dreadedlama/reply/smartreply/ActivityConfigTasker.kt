@@ -14,7 +14,7 @@ abstract class ActivityConfigTasker<TInput : Any, TOutput : Any, TActionRunner :
     abstract fun getNewHelper(config: TaskerPluginConfig<TInput>): THelper
     abstract val layoutResId: Int
 
-    protected val taskerHelper by lazy { getNewHelper(this) }
+    private val taskerHelper by lazy { getNewHelper(this) }
 
     open val isConfigurable = true
     override val context get() = applicationContext
