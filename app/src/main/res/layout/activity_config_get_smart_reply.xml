@@ -6,7 +6,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Separator" />
+        android:text="Message" />
 
     <EditText
         android:id="@+id/editTextSeparator"
@@ -14,6 +14,6 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:hint="Separator" />
+        android:hint="Message" />
 
 </LinearLayout>
