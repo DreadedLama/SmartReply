@@ -1,12 +1,12 @@
 package com.dreadedlama.reply.smartreply
 
 import android.os.Bundle
-import androidx.appcompat.app.AppCompatActivity
+import android.app.Activity
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : Activity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_config_get_smart_reply)
+        setContentView(R.layout.smart_reply_home)
     }
 }

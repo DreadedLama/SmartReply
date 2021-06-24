@@ -12,14 +12,20 @@
         android:supportsRtl="true"
         tools:ignore="GoogleAppIndexingWarning">
 
+
+        <activity
+            android:name="com.dreadedlama.reply.smartreply.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="com.dreadedlama.reply.smartreply.getSmartReply.ActivityConfigGetSmartReply"
             android:exported="true"
             android:icon="@mipmap/reply"
             android:label="Reply">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
                 <action android:name="com.twofortyfouram.locale.intent.action.EDIT_SETTING" />
             </intent-filter>
         </activity>
